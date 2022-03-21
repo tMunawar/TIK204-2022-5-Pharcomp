@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 * Nama lengkap: <T.Munawar Khalil>
 * NPM: <1904111010078>
+=======
+* Nama lengkap: <T.Munawar Khalil>
+* NPM: <1904111010078>
+>>>>>>> Stashed changes
 * Cita-cita: <FullStack Mobile Developer>
